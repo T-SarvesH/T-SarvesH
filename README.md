@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning + Web Development<br>🌱 I’m currently learning Advanced Machine Learning Algorithms + OpenCV<br>⚡ Fun fact: The first ever Linux kernel occupied only 65 KB!!
+🔭 I’m currently working on Machine Learning + Web Development and has major interest in backend development especially in Django and Laravel <br>🌱 I’m currently learning Advanced Machine Learning Algorithms + OpenCV<br>⚡ Fun fact: The first ever Linux kernel occupied only 65 KB!!
 
 
 ## 🌐 Socials:
